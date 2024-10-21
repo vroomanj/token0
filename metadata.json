@@ -1,6 +1,6 @@
 {
-  "name": "Vom Token",
-  "symbol": "VOM",
+  "name": "VRMN #Z Token",
+  "symbol": "VRMNZ",
   "description": "Example token from Solana Making a Token guide.",
   "image": "https://raw.githubusercontent.com/vroomanj/token0/refs/heads/main/coin.png"
 }
